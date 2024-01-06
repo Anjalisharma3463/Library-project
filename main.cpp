@@ -160,8 +160,7 @@ int main()
     // b1.viewallbooks();
     // b1.deletebook("python");
 
-    // cout << endl
-    //      << "After deleting:" << endl;
+    // cout << endl<< "After deleting:" << endl;
     // b1.viewallbooks();
 
     return 0;
